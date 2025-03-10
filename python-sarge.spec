@@ -9,7 +9,7 @@
 Summary:	A wrapper for subprocess which provides command pipeline functionality
 Name:		python-%{module}
 Version:	0.1.7
-Release:	1
+Release:	2
 License:	BSD
 Group:		Libraries/Python
 Source0:	https://pypi.debian.net/%{pypi_name}/%{pypi_name}-%{version}.tar.gz
